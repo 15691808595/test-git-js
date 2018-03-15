@@ -3,3 +3,4 @@ console.log(200);
 alert(123);
 alert(400);
 alert(300);
+alert(600);
